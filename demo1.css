@@ -1,0 +1,49 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: italic;
+
+
+}
+h3{
+    font-size:35px;
+}
+.name{
+    height: auto;
+    width: 750px;
+}
+.see{
+    height: 250px;
+    width: 350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px; ;
+ 
+}
+.main{
+    margin-top: 40px;
+}
+html {
+    scroll-behavior: smooth;
+  }
+  .col-md-2{
+      overflow:hidden;
+      overflow-y: auto;
+      scrollbar-width: 10px;
+      height: 550px;
+  }
+  .col-md-8{
+    overflow:hidden;
+    overflow-y: auto;
+    scrollbar-width: 10px;
+    height: 550px;
+  }
+nav{
+    text-align:center;
+}
+  .carousel-item{
+      padding-top: 20px;
+  }
+  
+
+ 
